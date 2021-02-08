@@ -7,3 +7,6 @@ config/__pycache__/
 blog/__init__.py
 blog/__pycache__/
 blog/migrations/
+accounts/__init__.py
+accounts/__pycache__/
+accounts/migrations/
